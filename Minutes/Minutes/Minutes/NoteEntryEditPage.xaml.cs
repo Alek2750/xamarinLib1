@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Minutes.Data;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +13,12 @@ namespace Minutes
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class NoteEntryEditPage : ContentPage
     {
-        public NoteEntryEditPage(Data.NoteEntry item)
+        private NoteEntry entry;
+
+        public NoteEntryEditPage(NoteEntry entry)
         {
             InitializeComponent();
+            this.entry = entry;
         }
     }
 }

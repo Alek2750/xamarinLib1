@@ -20,6 +20,8 @@ namespace Minutes
         {
             InitializeComponent();
 
+            entries.ItemTapped += OnItemTapped;
+            //NewEntry.Completed += OnAddNewEntry;
         }
 
         protected override async void OnAppearing()
@@ -33,11 +35,5 @@ namespace Minutes
             await Navigation.PushAsync(new NoteEntryEditPage(item));
         }
 
-
-        public NoteEntryEditPage(NoteEntry entry)
-        {
-            InitializeComponent();
-            this.entry = entry;
-        }
     }
 }
