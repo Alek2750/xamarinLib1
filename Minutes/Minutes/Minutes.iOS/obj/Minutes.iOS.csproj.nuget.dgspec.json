@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj": {}
+    "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj": {
+    "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj",
+        "projectUniqueName": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj",
         "projectName": "Minutes.iOS",
-        "projectPath": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj",
+        "projectPath": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes.iOS\\Minutes.iOS.csproj",
         "packagesPath": "C:\\Users\\ale12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes.iOS\\obj\\",
+        "outputPath": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes.iOS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "xamarinios10": {
             "projectReferences": {
-              "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\Minutes.csproj": {
-                "projectPath": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\Minutes.csproj"
+              "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\Minutes.csproj": {
+                "projectPath": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\Minutes.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\Minutes.csproj": {
+    "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\Minutes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\Minutes.csproj",
+        "projectUniqueName": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\Minutes.csproj",
         "projectName": "Minutes",
-        "projectPath": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\Minutes.csproj",
+        "projectPath": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\Minutes.csproj",
         "packagesPath": "C:\\Users\\ale12\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ale12\\source\\repos\\Minutes\\Minutes\\Minutes\\obj\\",
+        "outputPath": "C:\\Users\\ale12\\Documents\\GitHub\\xamarinLib1\\Minutes\\Minutes\\Minutes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

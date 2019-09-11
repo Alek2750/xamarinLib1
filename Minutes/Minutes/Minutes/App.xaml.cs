@@ -17,7 +17,7 @@ namespace Minutes
             Entries = new MemoryEntryStore();
             Entries.LoadMockData();
 
-            MainPage = new MainPage();
+            MainPage = new NavigationPage(new Minutes.MainPage());
         }
 
 
